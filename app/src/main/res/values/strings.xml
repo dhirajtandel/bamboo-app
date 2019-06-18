@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bamboo App</string>
+    <string name="amount">Rs: </string>
+</resources>
